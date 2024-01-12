@@ -1,10 +1,3 @@
-//NOME: FELIPE MARTINS DE SOUZA
-//PROF: DANIEL
-//LABORATORIO DE PROGRAMACAO
-
-
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
